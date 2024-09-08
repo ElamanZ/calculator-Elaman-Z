@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './Calculator.css'
+import './сalculator.css'
 
 
 function Calculator() {
